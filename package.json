@@ -1,0 +1,22 @@
+{
+	"name": "nodebb-plugin-google-search2",
+	"version": "1.0.3",
+	"description": "Redirect search queries to Google.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/revir/nodebb-plugin-google-search2.git"
+	},
+	"author": "River Yang <revir.qing@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/revir/nodebb-plugin-google-search2/issues"
+	},
+	"homepage": "https://github.com/revir/nodebb-plugin-google-search2#readme",
+	"nbbpm": {
+		"compatibility": "^1.0.1"
+	}
+}
